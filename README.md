@@ -36,5 +36,3 @@ An offline-first web app that helps ASHA workers assess maternal risk, identify 
 ---
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ne_hao&theme=dark" alt="GitHub Streak" />
-

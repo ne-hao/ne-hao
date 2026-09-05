@@ -35,11 +35,6 @@ An offline-first web app that helps ASHA workers assess maternal risk, identify 
 
 ---
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ne_hao&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne_hao&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ne_hao&theme=dark" alt="GitHub Streak" />
 
